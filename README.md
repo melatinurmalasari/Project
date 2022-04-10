@@ -1,4 +1,4 @@
 # Project
-a simple project
+just a testing project
 with mutiah, hanizar & riyan
 enjoy guyssssss
